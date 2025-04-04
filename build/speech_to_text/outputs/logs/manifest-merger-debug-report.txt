@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ezkina/.pub-cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/AndroidManifest.xml
